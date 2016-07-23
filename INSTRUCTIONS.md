@@ -23,3 +23,4 @@ http://uk.farnell.com/jst-japan-solderless-terminals/bph-002t-p0-5s/contact-loos
 ## Printing
  - Polycarbonate would be ideal for this adaptor, however ABS, ABSPro should suffice
  - Always print at 0.1 layers as the parts need to be as accurate as possible due to threads and the fact the back plate holds the micro switches
+ - The back plate infill should be around 80% so it comes out near solid. The rest of the parts could be printed are 50% infill
