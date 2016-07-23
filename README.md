@@ -1,4 +1,4 @@
-# BCN3D-Sigma-Mount-E3D-V6-MK2
+# BCN3D Sigma E3D v6 Hotend Mount MK2
 
 ![Hotend](/IMAGES/mk2_1.png?raw=true)
 ![Hotend](/IMAGES/mk2_2.png?raw=true)
