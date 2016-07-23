@@ -4,6 +4,7 @@ An E3D v6 hotend adaptor for the BCN3D Sigma IDEX 3D Printer.
 
 Please see the fitting instructions [here](INSTRUCTIONS.md)
 
+![Hotend](/IMAGES/e3d_mk2_1.jpg?raw=true)
 ![Hotend](/IMAGES/mk2_1.png?raw=true)
 ![Hotend](/IMAGES/mk2_2.png?raw=true)
 ![Hotend](/IMAGES/mk2_3.png?raw=true)
